@@ -1,0 +1,27 @@
+{
+  "name": "typescriptapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "enquirer": "^2.4.1",
+    "inquirer": "^9.2.16",
+    "process": "^0.11.10",
+    "requirer": "^0.0.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2",
+    "xmlbuilder": "^15.1.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
